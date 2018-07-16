@@ -67,7 +67,7 @@ ol {
 	Helper CSS
 -----------------------*/
 .spad {
-	padding-top: 60px;
+	padding-top: 10px;
 	padding-bottom: 110px;
 }
 
@@ -413,6 +413,7 @@ ol {
 	max-width: 200px;
 	max-height: 200px;
 	border-radius: 50%;
+	border: 2px solid #40424a;
 }
 
 .hero-info h2 {
@@ -443,6 +444,10 @@ ol {
 	text-align: center;
 }
 
+.hero-description a {
+	margin-top: 10px;
+}
+
 /*---------------------
 	Social section
 -----------------------*/
@@ -465,6 +470,7 @@ ol {
 }
 
 .social-section .social-link-warp {
+	text-align: center;
 	position: relative;
 }
 
