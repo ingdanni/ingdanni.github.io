@@ -53,6 +53,12 @@ footer p {
   font-weight: 300;
 }
 
+footer small {
+  font-style: italic;
+  font-family: 'IBM Plex Mono', serif;
+  font-weight: 300;
+  padding-bottom: 30px;
+}
 
 img {
   max-width: 175px;
