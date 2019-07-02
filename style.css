@@ -37,14 +37,22 @@ footer {
   padding: 0px !important;
 }
 
-footer ul {
+#header ul {
   padding: 0px !important;
 }
 
-footer ul li {
+#header ul li {
   display: inline-block;
   font-size: 34px;
 }
+
+footer p {
+  color: #efbb35 !important;
+  font-style: italic;
+  font-family: 'IBM Plex Mono', serif;
+  font-weight: 300;
+}
+
 
 img {
   max-width: 175px;
