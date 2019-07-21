@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #222831;
-  background: linear-gradient(to right, #314339, #222831);
+  background-color: #212121;
+  /*background: linear-gradient(to right, #314339, #222831);*/
 }
 
 #header {
@@ -19,9 +19,9 @@ h1, h3 {
   font-weight: 300;
 }
 
-h1 {
+.title {
   color: #efbb35 !important;
-  font-size: 47px;
+  font-size: 55px;
 }
 
 h2 {
@@ -64,7 +64,7 @@ img {
   max-width: 175px;
   max-height: 175px;
   border-radius: 50%;
-  border: 2px dashed #efbb35;
+  border: 2px solid #efbb35;
 }
 
 .btn-cv {
