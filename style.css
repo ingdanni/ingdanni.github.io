@@ -1,10 +1,10 @@
 * {
-  color: #FFFFFF !important;
+  color: rgb(0, 0, 0) !important;
   font-family: 'IBM Plex Mono', monospace;
 }
 
 body {
-  background-color: #000000;
+  background-color: #ffffff;
   /*background: linear-gradient(to right, #314339, #222831);*/
 }
 
@@ -20,13 +20,13 @@ h1, h3 {
 }
 
 .title {
-  color: #FFC107 !important;
+  color: #FFA000 !important;
   font-size: 50px;
   font-weight: bold;
 }
 
 h2 {
-  color: #FFC107 !important;
+  color: #FFA000 !important;
 }
 
 b {
@@ -49,7 +49,7 @@ footer {
 }
 
 footer p {
-  color: #FFC107 !important;
+  color: #FFA000 !important;
   font-style: italic;
   font-family: 'IBM Plex Mono', serif;
   font-weight: 300;
@@ -66,11 +66,11 @@ img {
   max-width: 175px;
   max-height: 175px;
   border-radius: 50%;
-  border: 2px solid #FFC107;
+  border: 2px solid #FFA000;
 }
 
 .btn-cv {
-  border: 2px solid #FFC107;
+  border: 2px solid #FFA000;
   border-style: dotted;
   padding: 15px;
   font-size: 20px;
