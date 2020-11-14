@@ -1,11 +1,10 @@
 * {
-  color: rgb(0, 0, 0) !important;
-  font-family: 'IBM Plex Mono', monospace;
+  color: #f2f2ff !important;
+  font-family: 'Ubuntu', monospace;
 }
 
 body {
-  background-color: #ffffff;
-  /*background: linear-gradient(to right, #314339, #222831);*/
+  background-color: #100818;
 }
 
 #header {
@@ -13,24 +12,26 @@ body {
   text-align: center;
 }
 
+#info {
+  text-align: center;
+}
+
 h1, h3 {
-  /*font-style: italic;*/
-  font-family: 'IBM Plex Mono', serif;
+  font-family: 'Ubuntu', serif;
   font-weight: 300;
 }
 
 .title {
-  color: #FFA000 !important;
+  color: #da3654 !important;
   font-size: 50px;
   font-weight: bold;
 }
 
 h2 {
-  color: #FFA000 !important;
+  color: #da3654 !important;
 }
 
 b {
-  /*text-decoration: underline;*/
   font-weight: bold;
 }
 
@@ -49,31 +50,30 @@ footer {
 }
 
 footer p {
-  color: #FFA000 !important;
+  color: #da3654 !important;
   font-style: italic;
-  font-family: 'IBM Plex Mono', serif;
+  font-family: 'Ubuntu', serif;
   font-weight: 300;
 }
 
 footer small {
   font-style: italic;
-  font-family: 'IBM Plex Mono', serif;
+  font-family: 'Ubuntu', serif;
   font-weight: 300;
   padding-bottom: 30px;
 }
 
 img {
-  max-width: 175px;
-  max-height: 175px;
+  max-width: 160px;
+  max-height: 160px;
   border-radius: 50%;
-  border: 2px solid #FFA000;
+  border: 2px solid #807e7e;
 }
 
 .btn-cv {
-  border: 2px solid #FFA000;
-  border-style: dotted;
-  padding: 15px;
+  border-radius: 20px;
+  background-color: #da3654;
+  padding: 20px;
   font-size: 20px;
   text-decoration: none;
-  font-style: italic;
 }
