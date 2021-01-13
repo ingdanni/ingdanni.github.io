@@ -1,6 +1,6 @@
 * {
   color: #f2f2ff !important;
-  font-family: 'Ubuntu', monospace;
+  font-family: 'Oxygen', sans-serif;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 h1, h3 {
-  font-family: 'Ubuntu', serif;
+  font-family: 'Oxygen', sans-serif;
   font-weight: 300;
 }
 
@@ -52,13 +52,13 @@ footer {
 footer p {
   color: #da3654 !important;
   font-style: italic;
-  font-family: 'Ubuntu', serif;
+  font-family: 'Oxygen', sans-serif;
   font-weight: 300;
 }
 
 footer small {
   font-style: italic;
-  font-family: 'Ubuntu', serif;
+  font-family: 'Oxygen', sans-serif;
   font-weight: 300;
   padding-bottom: 30px;
 }
